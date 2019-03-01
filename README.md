@@ -4,7 +4,7 @@
 
 A legacy (Pre MacOS X) Macintosh system extension to replace the spinning beachball cursor with one that shows a cartoon of my old cat, Obi. 
 
-Download the zip file here https://github.com/johnstack/obi_cursor/blob/master/ObiCursor.zip
+[Download the zip file](https://github.com/johnstack/obi_cursor/blob/master/ObiCursor.zip) and move the extension file (see image below) into the Extensions folder in the System folder.
 
 ![Obi Cursor](https://github.com/johnstack/obi_cursor/blob/master/obicursor.gif)
 
